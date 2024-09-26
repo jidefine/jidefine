@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#504EEE8&height=150&section=header" />
 
 # 사용자와 협업을 중요시하는 열정적인 개발자, 유지오입니다.
 - 기술적 전문성을 지속적으로 발전시키고 다양한 팀 프로젝트에서 실력을 쌓아 나가며, 최종적으로는 <b>사용자 맞춤형 웹 서비스를 개발해서 사회에 긍정적인 영향을 주고 싶습니다.</b>
@@ -19,7 +19,6 @@ GitHub https://github.com/GollllDong/BITBOX.git
 
 <br>
 
-## 기술 스택
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jidefine)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
