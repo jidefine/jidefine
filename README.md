@@ -8,6 +8,7 @@
 
 <br>
 
+
 ## 프로젝트
 ### 1. React 기반 1인 가구를 위한 반응형 커뮤니티 웹사이트 개발 및 배포(약 8주, 2024.06.04 - 07.30)
 GitHub https://github.com/LuckyVickys/.github
