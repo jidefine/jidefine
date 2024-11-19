@@ -9,13 +9,16 @@
 
 ## 프로젝트
 ### 1. React 기반 1인 가구를 위한 반응형 커뮤니티 웹사이트 개발 및 배포(약 8주, 2024.06.04 - 07.29)
-GitHub  https://github.com/LuckyVickys/.github
+GitHub
+https://github.com/LuckyVickys/.github
 ### 2. JavaScript, Spring Boot 기반 개발자를 위한 웹 커뮤니티 사이트 개발(약 2주,  2024.04.30 - 2024.05.16) 
 GitHub https://github.com/TeamOTL/OTL
 ### 3. JavaScript 기반 원생을 위한 반응형 웹 커뮤니티 사이트 개발(약 2주, 2024.03.13 - 2024.03.25)
-GitHub https://github.com/GollllDong/BITBOX.git
+GitHub
+https://github.com/GollllDong/BITBOX.git
 ### 4. Unity 기반 모바일 2D 비주얼 노벨형 어드벤처 게임 개발(약 4개월, 2023.03.02 - 06.16)
-구현 영상 https://ohdobbyddingga.tistory.com/m/3
+구현 영상
+https://ohdobbyddingga.tistory.com/m/3
 
 <br>
 
