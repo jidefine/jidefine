@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#ADE493&height=150&section=header" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#ADE493&height=150&section=header" />
 
 # 사용자와 협업을 중요시하는 열정적인 개발자, 유지오입니다. 
 - <b>사용자 맞춤형 웹을 개발해서 사회에 긍정적인 영향을 주고 싶습니다.</b>
