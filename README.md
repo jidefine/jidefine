@@ -11,7 +11,8 @@
 GitHub
 https://github.com/LuckyVickys/.github
 ### 2. JavaScript, Spring Boot 기반 개발자를 위한 웹 커뮤니티 사이트 개발(약 2주,  2024.04.30 - 2024.05.16) 
-GitHub https://github.com/TeamOTL/OTL
+GitHub
+https://github.com/TeamOTL/OTL
 ### 3. JavaScript 기반 원생을 위한 반응형 웹 커뮤니티 사이트 개발(약 2주, 2024.03.13 - 2024.03.25)
 GitHub
 https://github.com/GollllDong/BITBOX.git
