@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#ADE493&height=150&section=header" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#ADE493&height=150&section=header"/> 
 
 # 사용자를 우선으로 생각하는 개발자, 유지오입니다.
 -<b>사용자 맞춤형 웹을 개발해서 사소하지만 편리함을 제공하고 싶습니다.</b> 
