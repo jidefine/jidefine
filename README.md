@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#ADE493&height=150&section=header"/> 
 
 # 사용자를 우선으로 생각하는 개발자, 유지오입니다.
--<b>사용자 맞춤형 웹을 개발해서 사소하지만 편리함을 제공하고 싶습니다.</b> 
+-<b>사용자 맞춤형 웹을 개발해서 사소하지만 편리함을 제공하고 싶습니다.</b>
 - 개발자에게는 <b>'이해력', '문제 해결 능력', '협업 능력'</b>이 중요하다고 생각합니다. 이를 위해 <b>JavaScript, React, Axios, AJAX</b>를 활용한 Front-end 개발 경험과 <b>Spring Boot, Java, RESTful API</b>를 활용한 Back-end 개발 경험을 쌓았습니다. <b>Unity 기반의 모바일 2D 게임 개발 경험</b>도 있습니다.
 - <b>학부 시절 부전공에서 배운 기획, 마케팅, 콘텐츠 제작 경험</b>을 통해 다양한 시각으로 문제를 해결하고자 합니다. 
 <br>
