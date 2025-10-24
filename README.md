@@ -24,6 +24,11 @@ https://ohdobbyddingga.tistory.com/m/3
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jidefine)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+<img src="https://ghchart.rshah.org/jidefine" />
+<img src="https://ghchart.rshah.org/jioyussi" />
+
 <!---
 - 👋 Hi, I’m @jidefine
 - 👀 I’m interested in ...
